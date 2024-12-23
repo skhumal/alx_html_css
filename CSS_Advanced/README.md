@@ -1,21 +1,17 @@
-# CSS Advanced Project
+# Skhiya Car Wash
+This project implements a car wash website using HTML and advanced CSS techniques. It adheres to the design specifications provided in the Figma file.
 
-## Overview
-This project focuses on applyingadvanced CSS stylying techniques to create a fully responsive and visually appealing webpage. The goal is to replicate the design provided in the figma file.
+## Objectives
+- Use advanced CSS to create a pixel-perfect design.
+- Ensure responsive design principles are applied.
+- Adhere to W3C validation standards.
 
 ## Features
-- Styled header and banner
-- Quotes section with appropriate typography
-- Video list section
-- Membership section
-- FAQ section with collapsible details
-- Footer with proper layout and styling
+- Fully styled header, banner, and footer.
+- Dynamic quote and membership sections.
+- FAQ accordion-style section.
+- Popular services gallery.
 
-## Files
-- `index.html`: HTML structure of the webpage
-- `styles.css`: CSS for styling the webpage
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/skhumal/alx_html_css.git
+## Technologies Used
+- HTML5
+- CSS3
