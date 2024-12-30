@@ -220,8 +220,11 @@ button {
   background-color: #6c5ce7;
   color: white;
   border: none;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
+  text-align: center;
+  margin: 20px auto;
+  display: inline-block;
 }
 
 button:hover {
@@ -518,5 +521,5 @@ footer p {
 
 /* Optional: Star rating */
 .service-rating {
-  margin-top:
+ 
 }
